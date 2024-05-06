@@ -1,2 +1,2 @@
 # HTML-and-CSS-Experiment
-Experimenting with my HTML and CSS knowledge. In this project, I have created a basic sports channel or portal's website. 
+After the completion of this certification 'E-commerce Website with HTML and CSS from Great Learning Academy, I wanted to use the knowledge I gained from watching the videos in a project. In this project, I have created a basic sports channel or portal website, similar to the website that was taught to be built during the course for the certification. This is a very simple layout project just done to test my knowledge a little. 
